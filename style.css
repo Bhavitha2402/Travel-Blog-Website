@@ -1,0 +1,349 @@
+*{  font-family: arial;
+    border: border-box;
+    margin: 0px;
+     
+}
+.bigback{
+    background-image: url("Moula-Ali-Hills.jpg");
+    background-size: cover;
+    height:682.4px; 
+}
+.bigback:hover{
+    border:2px solid black;
+}
+header{
+width:1500px;
+height:70px;
+display:flex;
+align-items: center;
+background-color:#ffffffcc;
+border-radius:2rem;
+position:absolute;
+ margin-top: 10px;
+ border:2px solid black;
+}
+.logobackground{
+    height:70px;
+    width:190px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+.logo{
+   height:70px;
+    width:60px;
+    background-image:url("charminar.jpg") ;
+    background-size: cover;
+    border-radius: 50%;
+    margin-left: 15px;
+
+}
+.mainhead{
+    position: absolute;
+    padding-left: 100px;
+    margin-bottom: 2px;
+    font-size: 18px;
+}
+.options{
+    display: flex;
+    padding-top: 20px;
+    margin-left: 385px;
+}
+.hey {
+    margin-left: 35px;
+    font-weight: 400px;
+    font-size: 22px;
+     
+}
+.hey:hover {
+    color:rgb(243, 189, 55);
+}
+.join{
+    background-color: #028391;
+    height:56px;
+    width:95px;
+    font-size:20px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    border-radius:50px;
+    margin-left: 477px;
+}
+.main2{
+    display:inline-block;
+    justify-content:center;
+    position:absolute;
+    padding-top: 293px;
+    padding-left: 380px;
+    font-size: 35px;
+    color:#fed8b1;
+}
+h2{
+    font-size: 18px;
+    color:black;
+    font: italic;
+}
+div.transbox {
+    margin: 30px;
+    background-color: transparent;
+    border: 2px solid #fed8b1;
+    opacity: 1;
+    font-size: 20px;
+    font-weight: 500;
+ display:flex;
+ justify-content: center;
+ align-items: center;
+position:absolute;
+margin-top: 420px;
+margin-left: 690px;
+height:56px;
+width:155px;
+border-radius:50px;
+color:#fed8b1;
+}
+/*box2*/
+.box2{
+    display:flex;
+    justify-content: space-evenly;
+     background-color: #EADBC8;
+height:580.4px;
+margin-top: 5px;
+border:2px black;
+border-radius:5px;
+}
+.box2:active{
+    border:2px solid black;
+    border-radius: 50px;
+}
+.about{
+    height:190px;
+     
+ 
+}
+.abth1{
+    height:20px;
+    font-size:30px;
+    font-weight: 450;
+    margin-top: 35px;
+}
+.abtp1{
+    margin-top: 155px;
+    height:100px;
+    width:645px;
+    margin-left: 0px;
+}
+.abtpic{
+    background-image: url("about.jpeg");
+    background-size: cover;
+    height:490px;
+    width:470px;
+    margin-top: 35px;
+    border-radius: 50px;
+}
+.abtp1 p{
+    margin-top: 25px;
+    font-size: 22.4px;
+}
+/*box3*/
+.box3{
+    height:650px;
+    background-color: #EADBC8;
+    border-radius: 5px;
+}
+.box3:active{
+    border:2px solid black;
+}
+.main3{
+    margin-top: 5px;
+}
+.main3 h2 {
+    font-size: 60px;
+     display: flex;
+     justify-content: center;
+}
+.main3 p{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.all3{
+    height:480px;
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+.hydpics1{
+background-image: url("local.jpeg");
+background-size: cover;
+height:380px;
+width:360px;
+border-radius: 50px;
+}
+.hydpics3{
+    background-image: url("golkonda.jpeg");
+    background-size: cover;
+    height:380px;
+    width:360px;
+    border-radius: 50px;   
+}
+.hydpics2{
+    background-image: url("hussain.jpg");
+background-size: cover;
+height:380px;
+width:360px;
+border-radius: 50px;
+}
+
+/*box4*/
+.bix4
+{
+    background-color: #EADBC8;
+    height:50px;
+    margin-top: 0px;
+}
+.bix4 h2{
+font-size: 32px;
+display: flex;
+justify-content: center;
+}
+.bix41{
+    background-color: #EADBC8;
+    height:440px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#para{
+    position:absolute;
+    padding-top: 380px;
+     padding-left: 70px;
+     font-size: 30px;
+}
+.pic1{
+    background-image: url("chilkoor.webp");
+    background-size: cover;
+    height:380px;
+    width:360px;
+    border-radius: 50px;
+}
+.pic2{
+    background-image: url("lumbini.jpg");
+    background-size: cover;
+    height:380px;
+    width:360px;
+    border-radius: 50px;    
+}
+.pic3{
+    background-image: url("birla1.jpg");
+    background-size: cover;
+    height:380px;
+    width:360px;
+    border-radius: 50px;
+}
+.bix42{
+    background-color: #EADBC8;
+    height:419px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.pic4{
+    background-image: url("ramoji.jpg");
+    background-size: cover;
+    height:380px;
+    width:360px;
+    border-radius: 50px;
+}
+.pic5{
+    background-image: url("peddamma.png");
+    background-size: cover;
+    height:380px;
+    width:360px;
+    border-radius: 50px;    
+}
+.pic6{
+    background-image: url("nehru.jpg");
+    background-size: cover;
+    height:380px;
+    width:360px;
+    border-radius: 50px;
+}
+
+/*yellow*/
+.yellow{
+    height:200.74px;
+    background-color: #f0c808;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+     margin-top: 10px;
+}
+.yellow p{
+    font-size: 22.4px;
+     text-align: center;
+}
+.transbox1{
+    height:72px;
+    width:206px;
+    background-color:#4d5e85 ;
+ border-radius: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22.4px;
+}
+/*last2*/
+.last2{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:white;
+    background-color:  #ffffff;
+    margin-top: 15px;
+}
+.last2:hover{
+    border:1px solid black;
+}
+.last2 p{
+    font-size:35px;
+    
+}
+.last2 h1{
+    color:#4d5e85;
+    font-size: 40px;
+}
+.last{
+    height:90px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+ font-size: 30px;
+ margin-top: 30px;
+}
+.lastlogo{
+font-size: 35px;
+position: absolute;
+padding-left: 670px;
+display: inline-block;
+}
+.whitespace{
+    height:240px;
+    background-color: #ffffff;
+}
+.footer{
+    background-color: black;
+    height:50px;
+    color:white;
+}
+.foot1{
+    display:flex;
+    justify-content: center;  
+}
+.foot1 h3{
+    margin-left: 15px ;
+}
+.footer p{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
